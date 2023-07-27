@@ -24,7 +24,7 @@ Load Balancer
 
 
 ## Clone the repository from GitHub:
-git clone https://github.com/yourusername/leave-management-system.git
+git clone https://github.com/NikitMasane/Leave_mangement_system.git
 Install the required dependencies for the frontend and backend.
 
 clone this repo 
